@@ -1,0 +1,22 @@
+{
+  "name": "ecf",
+  "version": "1.0.0",
+  "description": "Bundesliga football team 2020/2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecf",
+    "football",
+    "bundesliga"
+  ],
+  "author": "Baptiste KENENS",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.21",
+    "uuidv4": "^6.2.13"
+  }
+}
